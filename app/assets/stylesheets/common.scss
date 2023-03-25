@@ -1,0 +1,85 @@
+header {
+    font-size: 20px;
+    padding: 15px;
+    background-color: #000066;
+    color: white;
+    position: relative;
+    text-align: center;
+  }
+  
+  h3{
+    font-size: 20px;
+  }
+
+  a{
+    display: block;
+    text-decoration: none;
+    color: #000066;
+  }
+
+  a:visited{
+    color: #000066;
+  }
+
+  a:hover{
+    opacity: 0.7;
+  }
+
+  .new{
+    display: block;
+    background-color: #EEE8AA;
+    color: #000066;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 0.2rem;
+    border-color: white;
+    padding: 10px 20px;
+  }
+
+  .new:hover{
+    opacity: 0.7;
+  }
+
+  .edit{
+    background-color: #EEE8AA;
+    color: #000066;
+    font-size: 15px;
+    cursor: pointer;
+    border-color: white;
+    border-radius: 0.2rem;
+    padding: 10px 20px;   
+    margin:5px 0 10px 0; 
+  }
+
+  .edit:hover{
+    opacity: 0.7;
+  }
+
+  .to_index:hover{
+    opacity: 0.7;
+  }
+
+  .today{
+    margin:5px 0;
+  }
+
+  .sum{
+    margin:5px 0;
+  }
+
+  table th {
+    background-color: #EEE8AA;
+    padding: 10px 30px;
+  }
+
+  table td {
+    background-color: #FFFFE0;
+    padding: 10px 30px;
+  }
+
+  .notice {
+    background-color: #FFFFBB;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+  }
